@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recommender/static/css/main.ed7ee55d.css",
+    "main.js": "/recommender/static/js/main.3a2c31ce.js",
+    "index.html": "/recommender/index.html",
+    "main.ed7ee55d.css.map": "/recommender/static/css/main.ed7ee55d.css.map",
+    "main.3a2c31ce.js.map": "/recommender/static/js/main.3a2c31ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7ee55d.css",
+    "static/js/main.3a2c31ce.js"
+  ]
+}
